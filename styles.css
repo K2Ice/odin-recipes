@@ -1,0 +1,45 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    font-size: 40px;
+    color: white;
+    background-color: rgb(224, 181, 60);
+}
+
+li{
+    font-size: 17px;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.recipe-heading{
+    font-style: italic;
+    color: chocolate;
+    background-color: rgb(241, 213, 151);
+    text-align: center;
+    text-transform: uppercase;
+}
+
+em{
+    font-weight: bold;
+}
+
+.ingredients{
+    background-color: rgb(190, 75, 75);
+    color: white;
+}
+
+img{
+    width: 500px;
+    text-align: center;
+}
+
+p{
+    font-size: 19px;
+}
